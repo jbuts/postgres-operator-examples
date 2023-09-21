@@ -1,4 +1,4 @@
-namespace: postgres-operator
+namespace: keycloak
 
 resources:
 - postgres.yaml
